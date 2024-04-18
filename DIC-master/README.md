@@ -1,3 +1,13 @@
+# Title: DIC: Deep Image Clustering for Unsupervised Image Segmentation
+
+### Group members
+####  Name : Akshay kaushik
+####  Email :200582197@student.georgianc.on.ca
+####  Name : Dushar
+####  Email :200582193@student.georgianc.on.ca
+
+
+
 Github repository
 https://github.com/dushar124/DIC-Image_segmentation_Akshay_Dushar
 
